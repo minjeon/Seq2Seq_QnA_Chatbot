@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
 
 ## 🔸 실행 파일
-02_seq2seq_qna_chatbot
+**02_seq2seq_qna_chatbot** <br>
 → 학습 진행이 너무 오래 걸려서 colab 사용 권장
 
 ## 🔸 실행 결과
